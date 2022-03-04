@@ -43,7 +43,7 @@
 
 # Comandos para ejecutar el proyecto.
 
-* mvn verify
+* mvn clean verify
 
 
 ## Autores
