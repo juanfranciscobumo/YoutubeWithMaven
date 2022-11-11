@@ -39,7 +39,7 @@
 # Requerimientos
 
 * Java JDK 1.8 
-* Gestor de proyectos Gradle 
+* Gestor de proyectos Maven 
 
 # Comandos para ejecutar el proyecto.
 
