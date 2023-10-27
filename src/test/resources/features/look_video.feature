@@ -12,6 +12,6 @@ Feature: Look a video in YouTube
     Then Juan checks that the video has duration of '<time>'
 
     Examples: Data
-      | Song         | autor                          | time |
-      | need you now | Lady Antebellum - Need You Now | 4:31 |
-     # | Always Remember Us This Way | Lady Gaga - Always Remember Us This Way (f | 4:01 |
+      | Song                        | autor                                      | time |
+      | need you now                | Lady Antebellum - Need You Now             | 4:31 |
+    #  | Always Remember Us This Way | Lady Gaga - Always Remember Us This Way (f | 4:01 |
