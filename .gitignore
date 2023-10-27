@@ -6,6 +6,7 @@
 .idea
 settings.gradle
 target/
+chrome/
 .metadata
 bin/
 tmp/
