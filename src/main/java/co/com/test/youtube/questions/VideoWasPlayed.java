@@ -17,6 +17,7 @@ public class VideoWasPlayed implements Question<String> {
 
     @Override
     public String answeredBy(Actor actor) {
+
         return Text.of(MUSICPLAYER.of(timeVideo)).answeredBy(actor);
     }
 

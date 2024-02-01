@@ -10,6 +10,5 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 @CucumberOptions(features = "src/test/resources/features/look_video.feature",
         glue = "co/com/test/youtube/stepdefinitions",
         snippets = CAMELCASE)
-
 public class LookingForAVideoRunner {
 }
